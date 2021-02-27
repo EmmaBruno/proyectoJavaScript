@@ -1,0 +1,38 @@
+[
+   {
+      "id": 1,
+      "foto": "./ejercicios/sentadilla.jpg",
+      "titulo": "Sentadilla",
+      "ejercicio": "Sentadilla",
+      "descripcion": "La sentadilla o cuclilla (en dependencia del grado de flexión de rodillas y caderas, siendo mayor en la cuclilla) es uno de los ejercicios básicos del entrenamiento de fuerza. Trabaja directamente los músculos de muslo, músculos de la cadera y glúteos, haciendo la cantidad de series y repeticiones recomendadas podrías lograr la parte baja que deseas y fortalece los huesos, ligamentos y tendones de piernas y caderas.",
+      "dificultad": "★★★☆☆",
+      "video": "https://www.youtube.com/embed/BjixzWEw4EY"
+   },
+   {
+      "id": 2,
+      "foto": "./ejercicios/flex.jpg",
+      "titulo": "flexión",
+      "ejercicio": "flexión",
+      "descripcion": "Las flexiones de brazos son uno de los ejercicios de fuerza más conocidos junto con los abdominales, considerándose un ejercicio básico en las clases de educación física de los colegios o, incluso, en el ámbito de la instrucción militar.",
+      "dificultad": "★★☆☆☆",
+      "video": "https://www.youtube.com/embed/GsKUPfeLO0Q"
+   },
+   {
+      "id": 3,
+      "foto": "./ejercicios/bench.jpg",
+      "titulo": "Bench press",
+      "ejercicio": "Bench press",
+      "descripcion": "Este ejercicio físico es uno de los tres realizados en powerlifting (peso muerto, sentadillas, y press de banca), y también se utiliza en el culturismo como un ejercicio para el pecho, (principalmente músculos pectorales) el tríceps y el fascículo anterior del deltoides. El levantador se tumba sobre su espalda en un banco, levantando y bajando la barra directamente por encima del pecho. Está pensado para el desarrollo de los músculos del pecho, los deltoides anterior y los serratos anteriores, existe una variación para el tríceps, denominado press francés.",
+      "dificultad": "★★★☆☆",
+      "video": "https://www.youtube.com/embed/SqOMD4I7UDw"
+   },
+   {
+      "id": 4,
+      "foto": "./ejercicios/plank.jpg",
+      "titulo": "Plancha",
+      "ejercicio": "Plancha",
+      "descripcion": "La plancha anaeróbica (también llamada plank, estabilización horizontal, o puente abdominal) es un ejercicio isométrico de torso que consiste en mantener una posición difícil por un periodo de tiempo prolongado. La plancha más común es la plancha frontal o de antebrazo, la cual se hace en una posición de lagartija con el peso corporal apoyado sobre los antebrazos, codos y dedos de los pies.",
+      "dificultad": "★★☆☆☆",
+      "video": "https://www.youtube.com/embed/DWqII4NR_vs"
+   }
+]
